@@ -1,0 +1,30 @@
+{
+  "name": "webui",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.2",
+    "@tinymce/tinymce-vue": "^5.0.0",
+    "axios": "^0.27.2",
+    "bootstrap": "^4.6.2",
+    "ckeditor4": "^4.19.1",
+    "ckeditor4-vue": "^2.1.1",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1",
+    "tinymce": "^6.2.0",
+    "tinymce-vue": "^1.0.0",
+    "vee-validate": "^4.6.6",
+    "vue": "^3.2.39",
+    "vue-router": "^4.1.4",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "vite": "^3.0.4"
+  }
+}
